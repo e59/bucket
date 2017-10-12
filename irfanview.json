@@ -8,10 +8,6 @@
                 "http://irfanview.info/files/iview450_x64.zip",
                 "http://www.fosshub.com/IrfanView.html/irfanview_plugins_450_x64.zip"
             ],
-            "hash": [
-                "aa0bdf15331cabaf02c96b1027525ef42d5068c1c999dc3b6bbd1903b24977b3",
-                "88ec0c06487346af7f4f47ae3815197712d14eb6b9cba8af6210294fb1ecd0ca"
-            ],
             "shortcuts": [
                 [
                     "i_view64.exe",
@@ -23,10 +19,6 @@
             "url": [
                 "http://irfanview.info/files/iview450.zip",
                 "http://www.fosshub.com/IrfanView.html/irfanview_plugins_450.zip"
-            ],
-            "hash": [
-                "1568576edcdfd95382154538299e01f58ae9d0b863e24f176bf8d97b8d2d4e33",
-                "938e3c8c4ab3ff1385bac96051970f727998238742a19f8f186f8a1f31840f6b"
             ],
             "shortcuts": [
                 [
